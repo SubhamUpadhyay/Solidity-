@@ -8,7 +8,10 @@ A collection of **Solidity smart contracts** for learning and experimenting with
 
 1. CrowdFunding DApp
 2. School Management System Dapp
-3. Creating own Crypto
+3. Creating own Crypto\
+---
+  More to be added ..... stay Tuned !!!
+---
 
 ## ⚙️ How to Run
 
